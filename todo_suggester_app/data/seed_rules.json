@@ -1,0 +1,74 @@
+{
+  "rules": {
+    "email": [
+      "Process your inbox: reply to 5 important emails",
+      "Unsubscribe from 2 low-value newsletters",
+      "Create one email template for frequent replies"
+    ],
+    "gym": [
+      "Book a 45-minute gym session",
+      "Prep your gym bag and water bottle",
+      "Do a 15-minute bodyweight workout at home"
+    ],
+    "run": [
+      "Plan a 20\u201330 min run on a safe route",
+      "Warm up for 5 minutes before running",
+      "Log your run in your tracker"
+    ],
+    "code": [
+      "Tackle one small ticket or bug",
+      "Write unit tests for a recent function",
+      "Refactor a messy 20\u201330 lines of code"
+    ],
+    "study": [
+      "Read one chapter and summarise in 5 bullets",
+      "Make spaced\u2011repetition flashcards for key terms",
+      "Do one past-paper question"
+    ],
+    "clean": [
+      "Set a 10-minute timer and tidy a room",
+      "Do a quick vacuum of high-traffic areas",
+      "Wipe down kitchen surfaces"
+    ],
+    "cook": [
+      "Plan and prep one balanced meal",
+      "Write a short grocery list",
+      "Batch-cook 2 portions for later"
+    ],
+    "finance": [
+      "Review transactions and categorise 5 expenses",
+      "Move \u00a3X to savings (pay yourself first)",
+      "Cancel one unused subscription"
+    ],
+    "call": [
+      "Schedule or make one important phone call",
+      "Draft a mini-agenda before the call",
+      "Follow up with a short summary note"
+    ],
+    "garden": [
+      "Water plants and remove dead leaves",
+      "Weed one small section for 10 minutes",
+      "Check tools and tidy the shed"
+    ],
+    "drone": [
+      "Charge drone batteries to storage level",
+      "Plan a practice flight with 2 manoeuvres",
+      "Back up the latest footage to external drive"
+    ],
+    "write": [
+      "Draft 200 words of your article/report",
+      "Outline headings for the next section",
+      "Edit yesterday\u2019s paragraph for clarity"
+    ],
+    "yoga": [
+      "Do a 15-minute beginner yoga flow",
+      "Practise deep breathing for 5 minutes",
+      "Set up a calm space for stretching"
+    ],
+    "job": [
+      "Apply to one relevant role",
+      "Tailor your CV bullet for a key project",
+      "Message a contact for an informational chat"
+    ]
+  }
+}

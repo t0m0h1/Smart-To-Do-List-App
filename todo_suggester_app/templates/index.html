@@ -1,0 +1,44 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>DayMaker — habit‑aware to‑do suggester</title>
+  <link rel="stylesheet" href="/static/style.css">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;600;700&display=swap" rel="stylesheet">
+</head>
+<body>
+  <div class="container">
+    <div class="header">
+      <div class="logo"></div>
+      <div class="title">DayMaker <span style="opacity:.6;font-weight:600">· smart daily actions</span></div>
+    </div>
+
+    <div class="card">
+      <small class="kicker">Describe your habits</small>
+      <h2>What do you usually do in a typical day?</h2>
+      <p style="opacity:.8;margin:6px 0 12px">Tell me about routines, work, study, fitness, chores, or goals. Press <b>Ctrl/⌘ + Enter</b> to generate.</p>
+      <textarea id="habits" placeholder="e.g., I code for a few hours, check emails, try to run 3x a week, and I'm studying for an exam. I also fly drones for clients and need to edit footage."></textarea>
+      <div class="actions">
+        <button id="generateBtn" class="btn-primary">Generate 5 actions</button>
+        <button onclick="document.getElementById('habits').value='I work on code, check email, edit drone footage, study for cybersecurity, and try to run or gym in evenings. I need to keep on top of finances and household chores.'">Example</button>
+        <button onclick="document.getElementById('habits').value=''; document.getElementById('suggestions').innerHTML='';">Clear</button>
+      </div>
+    </div>
+
+    <div class="card">
+      <small class="kicker">Today’s suggestions</small>
+      <h2>Five useful things you can finish today</h2>
+      <div id="suggestions" class="suggestions"></div>
+    </div>
+
+    <div class="footer">
+      <span>Powered by a lightweight NLP/ML engine that learns from feedback over time. Your thumbs up/down help personalise future suggestions.</span>
+    </div>
+  </div>
+  <div id="toast" class="toast"></div>
+  <script src="/static/script.js"></script>
+</body>
+</html>
