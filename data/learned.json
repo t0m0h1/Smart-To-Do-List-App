@@ -1,4 +1,105 @@
 {
-  "associations": {},
-  "seen": 1
+  "associations": {
+    "cybersecurity": {
+      "Drink a glass of water and refill your bottle": 1.0,
+      "Declutter one small area (desk, downloads folder)": 2.0,
+      "Plan your top 3 priorities for today": 1.0
+    },
+    "gym": {
+      "Drink a glass of water and refill your bottle": 1.0,
+      "Declutter one small area (desk, downloads folder)": 2.0,
+      "Plan your top 3 priorities for today": 1.0
+    },
+    "try": {
+      "Drink a glass of water and refill your bottle": 1.0,
+      "Declutter one small area (desk, downloads folder)": 2.0,
+      "Plan your top 3 priorities for today": 1.0
+    },
+    "finances": {
+      "Drink a glass of water and refill your bottle": 1.0,
+      "Declutter one small area (desk, downloads folder)": 2.0,
+      "Plan your top 3 priorities for today": 1.0
+    },
+    "footage": {
+      "Drink a glass of water and refill your bottle": 1.0,
+      "Declutter one small area (desk, downloads folder)": 2.0,
+      "Plan your top 3 priorities for today": 1.0
+    },
+    "drone": {
+      "Drink a glass of water and refill your bottle": 1.0,
+      "Declutter one small area (desk, downloads folder)": 2.0,
+      "Plan your top 3 priorities for today": 1.0
+    },
+    "edit": {
+      "Drink a glass of water and refill your bottle": 1.0,
+      "Declutter one small area (desk, downloads folder)": 2.0,
+      "Plan your top 3 priorities for today": 1.0
+    },
+    "email": {
+      "Drink a glass of water and refill your bottle": 1.0,
+      "Declutter one small area (desk, downloads folder)": 2.0,
+      "Plan your top 3 priorities for today": 1.0
+    },
+    "chores": {
+      "Drink a glass of water and refill your bottle": 1.0,
+      "Declutter one small area (desk, downloads folder)": 2.0,
+      "Plan your top 3 priorities for today": 1.0
+    },
+    "run": {
+      "Drink a glass of water and refill your bottle": 1.0,
+      "Declutter one small area (desk, downloads folder)": 2.0,
+      "Plan your top 3 priorities for today": 1.0
+    },
+    "study": {
+      "Drink a glass of water and refill your bottle": 1.0,
+      "Declutter one small area (desk, downloads folder)": 2.0,
+      "Plan your top 3 priorities for today": 1.0
+    },
+    "need": {
+      "Drink a glass of water and refill your bottle": 1.0,
+      "Declutter one small area (desk, downloads folder)": 2.0,
+      "Plan your top 3 priorities for today": 1.0
+    },
+    "work": {
+      "Drink a glass of water and refill your bottle": 1.0,
+      "Declutter one small area (desk, downloads folder)": 2.0,
+      "Plan your top 3 priorities for today": 1.0
+    },
+    "code": {
+      "Drink a glass of water and refill your bottle": 1.0,
+      "Declutter one small area (desk, downloads folder)": 2.0,
+      "Plan your top 3 priorities for today": 1.0
+    },
+    "evenings": {
+      "Drink a glass of water and refill your bottle": 1.0,
+      "Declutter one small area (desk, downloads folder)": 2.0,
+      "Plan your top 3 priorities for today": 1.0
+    },
+    "or": {
+      "Drink a glass of water and refill your bottle": 1.0,
+      "Declutter one small area (desk, downloads folder)": 2.0,
+      "Plan your top 3 priorities for today": 1.0
+    },
+    "household": {
+      "Drink a glass of water and refill your bottle": 1.0,
+      "Declutter one small area (desk, downloads folder)": 2.0,
+      "Plan your top 3 priorities for today": 1.0
+    },
+    "check": {
+      "Drink a glass of water and refill your bottle": 1.0,
+      "Declutter one small area (desk, downloads folder)": 2.0,
+      "Plan your top 3 priorities for today": 1.0
+    },
+    "keep": {
+      "Drink a glass of water and refill your bottle": 1.0,
+      "Declutter one small area (desk, downloads folder)": 2.0,
+      "Plan your top 3 priorities for today": 1.0
+    },
+    "top": {
+      "Drink a glass of water and refill your bottle": 1.0,
+      "Declutter one small area (desk, downloads folder)": 2.0,
+      "Plan your top 3 priorities for today": 1.0
+    }
+  },
+  "seen": 5
 }
