@@ -1,1 +1,0 @@
-# Smart-To-Do-List-App
